@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+    color:#2f589c;
+    text-align: center;
+}
+
+#profile {
+    width: 150px;
+    border: 1px black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #contact {
+      font-size: medium;
+      font-weight: bold;
+      width: 400px;
+  }
+
+  #description {
+      font-size: 20px;
+      width: 400px;
+  }
+
+  #screenshots {
+      width: 250px;
+      height: 150px
+  }
