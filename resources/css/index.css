@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+h1 {
+    font-size: 70px;
+}
+
 #profile {
     width: 150px;
     border: 1px black;
