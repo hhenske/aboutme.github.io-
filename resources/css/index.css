@@ -11,6 +11,8 @@ h1 {
 #profile {
     width: 150px;
     border: 1px black;
+    /* margin: auto; */
+    padding-right: 5rem;
 }
 
 .grid-container {
@@ -29,10 +31,11 @@ h1 {
       font-size: 25px;
       font-weight: bold;
       width: 400px;
+      padding-bottom: 5rem;
   }
 
   #description {
-      font-size: 20px;
+      font-size: 22px;
       width: 400px;
   }
 
@@ -47,4 +50,8 @@ h1 {
       align-items: flex-end;
       font-size: 20px;
       color:white;
+  }
+
+  a:hover {
+    font-style:italic;
   }
